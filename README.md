@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=caohuilin&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits=true" />
+
 - 🔭 I’m currently working on Front-end，My work is based on Javascript、Typescript、HTML、CSS
 - Usually，I'am using Jquery lodash Vue and React,but this is just a tool with Javascript
 - 🌱 I’m currently learning Electron and WebGL.I beleive theses thing can help me become cooler. 
