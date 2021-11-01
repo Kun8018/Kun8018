@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Front-end，My work is based on Javascript、Typescript、HTML、CSS
 - Usually，I'am using Jquery lodash Vue and React,but this is just a tool with Javascript
 - 🌱 I’m learning Electron and WebGL.I beleive theses thing can help me become cooler. 
-- 👯 I’m looking to collaborate on different idea.
+- 👯 I’m looking to collaborate on different ideas and simple, smart people.
 - I worked in CAS, robotics. So I‘m glad to discuss with newest research in robotics, especially in IROS, ICRA and top Journal.
 - 📫 You can reach me: 1027690173@qq.com
 <!--
