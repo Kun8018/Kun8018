@@ -2,8 +2,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kun8018&show_icons=true&bg_color=#F472B6&count_private=true&show_icons=true&include_all_commits=true" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kun8018&hide=html&count_private=true&layout=compact" />
 </div>
 
 - 🔭 I’m currently working on Front-end，My work is based on Javascript、Typescript、HTML、CSS
@@ -26,3 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kun8018&hide=html&count_private=true&layout=compact" />
+</div>
