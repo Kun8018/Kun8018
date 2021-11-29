@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kun8018&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits=true&bg_color=#F472B6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kun8018&show_icons=true&bg_color=#F472B6&count_private=true&show_icons=true&include_all_commits=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kun8018&hide=html&count_private=true&layout=compact" />
 </div>
 
